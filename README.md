@@ -23,4 +23,4 @@ This project showcases an interactive Excel dashboard built using:
 - Dashboard design
 - 
 - ## 📸 Dashboard Preview
-![Dashboard](your-image-name.png)
+![Dashboard](dashboard.png)
